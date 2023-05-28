@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Simple-Calculator</string>
+    <string name="button_03">3</string>
+    <string name="btn_04">4</string>
+    <string name="btn_03">3</string>
+    <string name="btn_05">5</string>
+    <string name="btn_06">6</string>
+    <string name="btnminus">-</string>
+    <string name="btn_01">1</string>
+    <string name="btn_02">2</string>
+    <string name="btn_plus">+</string>
+    <string name="btn_00">0</string>
+    <string name="btn_clear">CLR</string>
+    <string name="btn_equal">=</string>
+    <string name="btn_divide">/</string>
+    <string name="btn_dot">.</string>
+</resources>
